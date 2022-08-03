@@ -1,4 +1,4 @@
-<h3>Hello! I'm Andrea Carreño! :raising_hand_woman: and I'm a front-End Developer jr.</h3>
+<h3>:raising_hand_woman: Hello! I'm Andrea Carreño and I'm a Front-End Developer jr.</h3>
 
 - :handbag: Portfolio https://andreavcc.github.io/portafolio_avcc/
 - :email: Email a.carreocoppo2@gmail.com
