@@ -1,6 +1,6 @@
 <h3>Hello! I'm Andrea Carreño! :raising_hand_woman:</h3>
 
-- :handbag: Portfolio https://andreavcc.github.io/portafolio_avcc/proyectos
+- :handbag: Portfolio https://andreavcc.github.io/portafolio_avcc/
 - :email: Email a.carreocoppo2@gmail.com
 
 <hr>
